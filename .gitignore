@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+activity_log.txt
+updates/
